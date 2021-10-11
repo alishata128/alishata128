@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alishata128
 - 👀 I’m interested in The Technology at All
 - 🌱 I’m currently learning Tailwind CSS
-- 💞️ I’m looking to collaborate on many projects as I could
+- 💞️ I’m looking to collaborate on many projects as I can
 - 📫 How to reach me alishata128@gmail.com
 
 <!---
